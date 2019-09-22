@@ -1,0 +1,7 @@
+"id","user_id","title","content","tags","slug","created_at","updated_at","image","action","post_id"
+"1"," 1"," 'my fist post'"," 'oaokaokaoa'"," NULL"," 'my-fist-post-03e'"," '2019-09-11 12:26:05'"," '2019-09-11 12:26:05'"," NULL"," 'publish'"," NULL"
+"2"," 1"," 'test code'"," '<h1>test</h1>rnrn<h1>test</h1>rnrn  rnrn~~~htmlrnrn<h1>test</h1>rnrn~~~'"," NULL"," 'test-code-bc6'"," '2019-09-11 18:00:27'"," '2019-09-13 08:16:13'"," NULL"," 'publish'"," NULL"
+"3"," 2"," 'aha'"," '![](/storage/2/images/img-qygt0us7ox.jpeg)'"," NULL"," 'aha-720'"," '2019-09-15 14:54:45'"," '2019-09-15 14:54:45'"," '/storage/2/images/thumbnail/img-qygt0us7ox_small_1568559283.jpeg'"," 'publish'"," NULL"
+"4"," 2"," 'again'"," '![](/storage/2/images/img-ztxcsj0285.jpeg)'"," NULL"," 'again-be4'"," '2019-09-15 15:48:44'"," '2019-09-15 15:48:44'"," '/storage/2/images/thumbnail/img-ztxcsj0285_small_1568562523.jpeg'"," 'publish'"," NULL"
+"5"," 2"," 'kkj'"," '![](/storage/2/images/thumbnail/img-1vlmfui4nn_large_.jpeg)![](/storage/2/images/thumbnail/img-mb07f2x453'_large_'1568563858994.jpeg)'"," 'Technology'"," 'kkj-4bd'"," '2019-09-15 16:11:00'"," '2019-09-22 08:13:45'"," '/storage/2/images/thumbnail/img-1vlmfui4nn_small_.jpeg'"," 'publish'"," NULL"
+"6"," 2"," 'upsard'"," 'am addingnn![](/storage/2/images/thumbnail/img-ydyipn0t61_large_.jpeg)nn![](/storage/2/images/thumbnail/img-lip9ljqexr_large_.jpeg)'","Politics Technology Health"," 'upsard-ea7'"," '2019-09-16 07:55:14'"," '2019-09-22 08:13:17'"," '/storage/2/images/thumbnail/img-ydyipn0t61_small_.jpeg'"," 'publish'"," NULL"
